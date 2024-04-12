@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class W06_GSwAR_ClickObject : MonoBehaviour
+public class W06_BasicInteraction : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -18,6 +18,6 @@ public class W06_GSwAR_ClickObject : MonoBehaviour
 
     private void OnMouseDown()
     {
-        print(gameObject.name + " clicked.");
+        print("mouse down");
     }
 }
