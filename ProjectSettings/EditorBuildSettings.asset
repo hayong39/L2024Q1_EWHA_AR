@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/W07_AddingUI/W07_AddingUI_practice.unity
+    guid: 76013f213d61b774cb5bb7cba6ec45c4
   m_configObjects: {}
